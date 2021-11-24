@@ -316,6 +316,7 @@ header {
 .default--projects-photoarea img {
     width: inherit;
     height: inherit;
+    border-radius: 5px;
 }
 
 .default--projects-photoinfo {
@@ -329,6 +330,7 @@ header {
     align-items: center;
     color: #fff;
     padding: 10px;
+    border-radius: 5px;
 }
 
 .default--projects-photoinfo h5 {
@@ -343,4 +345,16 @@ header {
 
 .default--projects-photoarea:hover .default--projects-photoinfo {
     display: flex;
+}
+
+.bg-team {
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+}
+
+.default--team-area {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 50px 0;
 }
