@@ -333,10 +333,6 @@ CSS DE ÁREAS ESPECÍFICAS
     color: #999;
 }
 
-
-
-
-
 .section-projects {
     display: flex;
     flex-direction: column;
@@ -884,10 +880,6 @@ CSS DE ÁREAS ESPECÍFICAS
     margin-right: 20px;
 }
 
-
-
-
-
 .section-map {
     background-image: url('../images/mapa.jpg');
     background-size: cover;
@@ -932,19 +924,6 @@ CSS DE ÁREAS ESPECÍFICAS
     width: 15px;
     height: auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media (min-width:450px) and (max-width:800px) {
     .logo {
